@@ -1,6 +1,6 @@
 # Hao Cai 
 
-Phd candidate at School of Public Affairs, Zhejiang University. Member of MAgPIE-China team.
+Phd candidate at School of Public Affairs, Zhejiang University. Member of MAgPIE-China team.![avatar]("生活照.jpg")
 
 ## Person information
 ### Affiliation
