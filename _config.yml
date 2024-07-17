@@ -21,7 +21,7 @@ repository               : "caihao24/hao_cai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "page.png"
   name             : "Hao Cai (蔡浩）"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, MAgPIE-China team, Zhejiang University"
